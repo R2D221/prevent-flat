@@ -5,7 +5,7 @@ The purpose of this library is to prevent TC39 from adding Array.prototype.flat 
 ## Install
 
 ```html
-<!-- TODO -->
+<script type="text/javascript" src="https://unpkg.com/prevent-flat@1.0.0/index.js"></script>
 ```
 
 ## Usage
