@@ -1,18 +1,18 @@
 {
-  "name": "prevent-smoosh",
-  "version": "3.0.1",
-  "description": "Don't let TC39 use smoosh or smooshMap",
+  "name": "prevent-flat",
+  "version": "1.0.0",
+  "description": "Don't let TC39 use flat",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/staltz/prevent-smoosh.git"
+    "url": "git+https://github.com/R2D221/prevent-flat.git"
   },
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
   },
-  "author": "staltz.com",
+  "author": "R2D221",
   "license": "MIT",
-  "keywords": ["smoosh"],
+  "keywords": ["smoosh", "flat", "flatten"],
   "devDependencies": {
     "tape": "^4.8.0"
   }
